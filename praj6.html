@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      
+      font-family: Arial, sans-serif;
+                background-color:ruby;
+                margin: 0;
+                padding: 0;
+                display: flex;
+                justify-content: top;
+            align-items: right; 
+                height: 80vh;
+     background-image: url('co2.jpg'); 
+     background-size: cover;
+    }
+
+    .container {
+      
+      padding: 20px;
+      
+    }
+
+    input {
+      width: 100%;
+      padding: 10px;
+      margin: 8px 0;
+      display: inline-block;
+      border: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+
+    button {
+      background-color: #4caf50;
+      color: white;
+      padding: 10px 15px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    #result {
+      margin-top: 10px;
+      padding: 10px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+<center>
+  <div class="container">
+    <h1>Carbon Emission Calculator</h1>
+    <p>Choose your hardware,runtime and cloud provider to estimate the carbon impact of your research <br> This calculator 
+        
+        <br></p>
+  </div>
+
+  <script>
+    function calculateEmissions() {
+      // Get the values of the input fields
+      var fuelConsumed = parseFloat(document.getElementById("fuelConsumed").value);
+      var emissionFactor = parseFloat(document.getElementById("emissionFactor").value);
+
+      // Perform the carbon emission calculation
+      var carbonEmission = fuelConsumed * emissionFactor;
+
+      // Display the result
+      document.getElementById("emissionOutput").innerText = "Carbon Emission: " + carbonEmission.toFixed(2) + " kg CO2";
+    }
+  </script>
+
+</body>
+</html>

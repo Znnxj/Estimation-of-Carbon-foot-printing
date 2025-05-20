@@ -1,0 +1,643 @@
+zone_key,year,Country,Zone Name,,no_hours_with_data,no_of_hours_per_day,carbon_intensity_avg
+AUS-NSW,2017,Australia,New South Wales,,5887,16.12876712,725.9916674
+AUS-NSW,2018,Australia,New South Wales,,8629,23.64109589,717.2494176
+AUS-NSW,2019,Australia,New South Wales,,8311,22.76986301,724.6863533
+AUS-NSW,2020,Australia,New South Wales,,2928,8.021917808,676.1
+AUS-NSW,2021,Australia,New South Wales,,6553,17.95342466,673.88
+AUS-QLD,2017,Australia,Queensland,,5887,16.12876712,766.6911518
+AUS-QLD,2018,Australia,Queensland,,8631,23.64657534,754.8681483
+AUS-QLD,2019,Australia,Queensland,,8309,22.76438356,748.5187482
+AUS-QLD,2020,Australia,Queensland,,2928,8.021917808,709.96
+AUS-QLD,2021,Australia,Queensland,,4879,13.36712329,707.96
+AUS-SA,2017,Australia,South Australia,,5853,16.03561644,336.4917457
+AUS-SA,2018,Australia,South Australia,,8634,23.65479452,307.6695495
+AUS-SA,2019,Australia,South Australia,,8307,22.75890411,301.807806
+AUS-SA,2020,Australia,South Australia,,2928,8.021917808,232.31
+AUS-SA,2021,Australia,South Australia,,6553,17.95342466,268.52
+AUS-TAS,2017,Australia,Tasmania,,5868,16.07671233,128.6363536
+AUS-TAS,2018,Australia,Tasmania,,8635,23.65753425,86.40150805
+AUS-TAS,2019,Australia,Tasmania,,8312,22.77260274,113.3050594
+AUS-TAS,2020,Australia,Tasmania,,1,0.002739726,259.86
+AUS-TAS,2021,Australia,Tasmania,,6553,17.95342466,89.03
+AUS-VIC,2017,Australia,Victoria,,5886,16.1260274,682.3460016
+AUS-VIC,2018,Australia,Victoria,,8636,23.66027397,674.8512768
+AUS-VIC,2019,Australia,Victoria,,8312,22.77260274,664.9763699
+AUS-VIC,2020,Australia,Victoria,,2928,8.021917808,600.51
+AUS-VIC,2021,Australia,Victoria,,6553,17.95342466,580.73
+AUS-WA,2017,Australia,Western Australia,,4611,12.63287671,611.2826759
+AUS-WA,2018,Australia,Western Australia,,8760,24,602.6911659
+AUS-WA,2019,Australia,Western Australia,,5342,14.63561644,574.6840559
+AUS-WA,2020,Australia,Western Australia,,2928,8.021917808,426.97
+AUS-WA,2021,Australia,Western Australia,,6553,17.95342466,480.3
+BR-CS,2017,Brazil,Central Brazil,,2236,6.126027397,143.7607549
+BR-CS,2018,Brazil,Central Brazil,,8308,22.76164384,106.1092523
+BR-CS,2019,Brazil,Central Brazil,,8683,23.7890411,109.0155514
+BR-CS,2020,Brazil,Central Brazil,,2928,8.021917808,132.19
+BR-CS,2021,Brazil,Central Brazil,,6553,17.95342466,166.03
+BR-N,2017,Brazil,North Brazil,,2318,6.350684932,309.329479
+BR-N,2018,Brazil,North Brazil,,8634,23.65479452,177.2270358
+BR-N,2019,Brazil,North Brazil,,8690,23.80821918,169.4075899
+BR-N,2020,Brazil,North Brazil,,2928,8.021917808,228.35
+BR-N,2021,Brazil,North Brazil,,6551,17.94794521,180.63
+BR-NE,2017,Brazil,North-East Brazil,,2247,6.156164384,240.0231199
+BR-NE,2018,Brazil,North-East Brazil,,8317,22.78630137,174.4660189
+BR-NE,2019,Brazil,North-East Brazil,,8690,23.80821918,145.5749495
+BR-NE,2020,Brazil,North-East Brazil,,2928,8.021917808,107.03
+BR-NE,2021,Brazil,North-East Brazil,,6551,17.94794521,146.01
+BR-S,2017,Brazil,South Brazil,,2318,6.350684932,122.9151017
+BR-S,2018,Brazil,South Brazil,,8634,23.65479452,106.345731
+BR-S,2019,Brazil,South Brazil,,8692,23.81369863,112.8332479
+BR-S,2020,Brazil,South Brazil,,2928,8.021917808,170.76
+BR-S,2021,Brazil,South Brazil,,6551,17.94794521,170.87
+CA-AB,2017,Canada,Alberta,,5948,16.29589041,600.6660355
+CA-AB,2018,Canada,Alberta,,8700,23.83561644,569.1211087
+CA-AB,2019,Canada,Alberta,,6727,18.43013699,572.174567
+CA-AB,2020,Canada,Alberta,,2928,8.021917808,531.53
+CA-AB,2021,Canada,Alberta,,6484,17.76438356,507.27
+CA-NS,2017,Canada,Nova Scotia,,1254,3.435616438,557.7545272
+CA-NS,2018,Canada,Nova Scotia,,6707,18.37534247,531.6378676
+CA-NS,2019,Canada,Nova Scotia,,4398,12.04931507,524.0309974
+CA-NS,2020,Canada,Nova Scotia,,1395,3.821917808,479.56
+CA-NS,2021,Canada,Nova Scotia,,92,0.252054795,81.02
+CA-ON,2018,Canada,Ontario,,6188,16.95342466,51.91897984
+CA-ON,2019,Canada,Ontario,,8754,23.98356164,52.89702006
+CA-ON,2020,Canada,Ontario,,2928,8.021917808,43.4
+CA-ON,2021,Canada,Ontario,,6553,17.95342466,54.84
+CA-PE,2017,Canada,Prince Edward Island,,5774,15.81917808,60.44316023
+CA-PE,2018,Canada,Prince Edward Island,,8754,23.98356164,177.8817756
+CA-PE,2019,Canada,Prince Edward Island,,8760,24,183.5949947
+CA-PE,2020,Canada,Prince Edward Island,,2928,8.021917808,124.91
+CA-PE,2021,Canada,Prince Edward Island,,6547,17.9369863,144.88
+CA-YT,2017,Canada,Yukon,,4398,12.04931507,40.98239758
+CA-YT,2018,Canada,Yukon,,7798,21.36438356,72.61218353
+CA-YT,2019,Canada,Yukon,,8311,22.76986301,122.6711284
+CA-YT,2020,Canada,Yukon,,2433,6.665753425,59.93
+CA-YT,2021,Canada,Yukon,,5443,14.91232877,51.11
+DK-BHM,2014,Denmark,Bornholm,,1,0.002739726,52.07454753
+DK-BHM,2015,Denmark,Bornholm,,7545,20.67123288,41.7483766
+DK-BHM,2016,Denmark,Bornholm,,7400,20.2739726,57.02825111
+DK-BHM,2017,Denmark,Bornholm,,6399,17.53150685,44.18208286
+DK-BHM,2018,Denmark,Bornholm,,8435,23.10958904,56.02340824
+DK-BHM,2019,Denmark,Bornholm,,8723,23.89863014,59.1104047
+DK-BHM,2020,Denmark,Bornholm,,2744,7.517808219,57.4
+DK-BHM,2021,Denmark,Bornholm,,6197,16.97808219,56.4
+DK-DK1,2014,Denmark,West Denmark,,1,0.002739726,284.1649171
+DK-DK1,2015,Denmark,West Denmark,,8760,24,222.7630219
+DK-DK1,2016,Denmark,West Denmark,,8784,24.06575342,277.9965561
+DK-DK1,2017,Denmark,West Denmark,,8760,24,192.9533457
+DK-DK1,2018,Denmark,West Denmark,,8760,24,216.1726897
+DK-DK1,2019,Denmark,West Denmark,,8759,23.99726027,201.8148847
+DK-DK1,2020,Denmark,West Denmark,,2928,8.021917808,143.01
+DK-DK1,2021,Denmark,West Denmark,,6553,17.95342466,193.99
+DK-DK2,2014,Denmark,East Denmark,,1,0.002739726,373.8376532
+DK-DK2,2015,Denmark,East Denmark,,8760,24,244.2175984
+DK-DK2,2016,Denmark,East Denmark,,8783,24.0630137,326.2955813
+DK-DK2,2017,Denmark,East Denmark,,8760,24,222.338417
+DK-DK2,2018,Denmark,East Denmark,,8760,24,255.7970185
+DK-DK2,2019,Denmark,East Denmark,,8760,24,186.441604
+DK-DK2,2020,Denmark,East Denmark,,2928,8.021917808,148.72
+DK-DK2,2021,Denmark,East Denmark,,6553,17.95342466,191.95
+ES-CN-FVLZ,2018,Spain,Fuerteventura/Lanzarote,,7796,21.35890411,598.8922114
+ES-CN-FVLZ,2019,Spain,Fuerteventura/Lanzarote,,8742,23.95068493,575.5510053
+ES-CN-FVLZ,2020,Spain,Fuerteventura/Lanzarote,,2910,7.97260274,593.5
+ES-CN-FVLZ,2021,Spain,Fuerteventura/Lanzarote,,6553,17.95342466,547.37
+ES-CN-GC,2018,Spain,Gran Canaria,,7796,21.35890411,498.8914581
+ES-CN-GC,2019,Spain,Gran Canaria,,8742,23.95068493,472.2256368
+ES-CN-GC,2020,Spain,Gran Canaria,,2910,7.97260274,559.58
+ES-CN-GC,2021,Spain,Gran Canaria,,6553,17.95342466,501.67
+ES-CN-HI,2018,Spain,El Hierro,,7796,21.35890411,278.0959555
+ES-CN-HI,2019,Spain,El Hierro,,8742,23.95068493,284.8031446
+ES-CN-HI,2020,Spain,El Hierro,,2910,7.97260274,413.66
+ES-CN-HI,2021,Spain,El Hierro,,6553,17.95342466,295.73
+ES-CN-IG,2018,Spain,Isla de la Gomera,,7796,21.35890411,650
+ES-CN-IG,2019,Spain,Isla de la Gomera,,8742,23.95068493,650
+ES-CN-IG,2020,Spain,Isla de la Gomera,,2910,7.97260274,650
+ES-CN-IG,2021,Spain,Isla de la Gomera,,6553,17.95342466,650
+ES-CN-LP,2018,Spain,La Palma,,7796,21.35890411,578.6246163
+ES-CN-LP,2019,Spain,La Palma,,8742,23.95068493,579.6679118
+ES-CN-LP,2020,Spain,La Palma,,2910,7.97260274,601.72
+ES-CN-LP,2021,Spain,La Palma,,6553,17.95342466,582.41
+ES-CN-TE,2018,Spain,Tenerife,,7796,21.35890411,514.1835351
+ES-CN-TE,2019,Spain,Tenerife,,8739,23.94246575,459.7062119
+ES-CN-TE,2020,Spain,Tenerife,,2910,7.97260274,539.08
+ES-CN-TE,2021,Spain,Tenerife,,6553,17.95342466,512.82
+ES-IB-FO,2018,Spain,Formentera,,1036,2.838356164,545.568393
+ES-IB-FO,2019,Spain,Formentera,,8606,23.57808219,493.9366085
+ES-IB-FO,2020,Spain,Formentera,,2867,7.854794521,417.76
+ES-IB-FO,2021,Spain,Formentera,,6515,17.84931507,423.19
+ES-IB-IZ,2018,Spain,Ibiza,,948,2.597260274,573.8095648
+ES-IB-IZ,2019,Spain,Ibiza,,8221,22.52328767,540.9365955
+ES-IB-IZ,2020,Spain,Ibiza,,2910,7.97260274,435.85
+ES-IB-IZ,2021,Spain,Ibiza,,6553,17.95342466,445.69
+ES-IB-MA,2018,Spain,Mallorca,,1036,2.838356164,567.2795876
+ES-IB-MA,2019,Spain,Mallorca,,8742,23.95068493,513.1691075
+ES-IB-MA,2020,Spain,Mallorca,,2910,7.97260274,421.3
+ES-IB-MA,2021,Spain,Mallorca,,6553,17.95342466,392.86
+ES-IB-ME,2018,Spain,Menorca,,1036,2.838356164,581.8441632
+ES-IB-ME,2019,Spain,Menorca,,8742,23.95068493,559.8366937
+ES-IB-ME,2020,Spain,Menorca,,2910,7.97260274,558.62
+ES-IB-ME,2021,Spain,Menorca,,6553,17.95342466,543.87
+GB-ORK,2018,Great Britain,Orkney Islands,,1836,5.030136986,72.14781319
+GB-ORK,2019,Great Britain,Orkney Islands,,8615,23.60273973,87.10420326
+GB-ORK,2020,Great Britain,Orkney Islands,,2577,7.060273973,77.29
+GB-ORK,2021,Great Britain,Orkney Islands,,6542,17.92328767,95.38
+IN-AP,2017,India,Andhra Pradesh,,2603,7.131506849,615.9295464
+IN-AP,2018,India,Andhra Pradesh,,7278,19.93972603,568.4435523
+IN-AP,2019,India,Andhra Pradesh,,5844,16.0109589,570.6896173
+IN-AP,2020,India,Andhra Pradesh,,2576,7.057534247,563
+IN-AP,2021,India,Andhra Pradesh,,2866,7.852054795,524.23
+IN-CT,2017,India,Chhattisgarh,,1112,3.046575342,817.7880341
+IN-CT,2018,India,Chhattisgarh,,7625,20.89041096,812.3667262
+IN-CT,2019,India,Chhattisgarh,,6442,17.64931507,812.3847756
+IN-CT,2020,India,Chhattisgarh,,2927,8.019178082,803.35
+IN-CT,2021,India,Chhattisgarh,,4704,12.88767123,807.75
+IN-DL,2017,India,Delhi,,852,2.334246575,516.3633858
+IN-DL,2018,India,Delhi,,5214,14.28493151,525.322092
+IN-DL,2019,India,Delhi,,7707,21.11506849,460.3131348
+IN-DL,2020,India,Delhi,,2892,7.923287671,476.12
+IN-DL,2021,India,Delhi,,6504,17.81917808,475.57
+IN-GJ,2018,India,Gujarat,,6177,16.92328767,611.9258592
+IN-GJ,2020,India,Gujarat,,0,0,
+IN-GJ,2021,India,Gujarat,,0,0,
+IN-KA,2017,India,Karnataka,,2429,6.654794521,572.2960707
+IN-KA,2018,India,Karnataka,,7669,21.0109589,472.0532917
+IN-KA,2019,India,Karnataka,,7044,19.29863014,391.442208
+IN-KA,2020,India,Karnataka,,2771,7.591780822,381.59
+IN-KA,2021,India,Karnataka,,3035,8.315068493,478.18
+IN-PB,2017,India,Punjab,,1913,5.24109589,683.2298321
+IN-PB,2018,India,Punjab,,7482,20.49863014,689.052811
+IN-PB,2019,India,Punjab,,3930,10.76712329,650.7163528
+IN-PB,2020,India,Punjab,,2789,7.64109589,601.18
+IN-PB,2021,India,Punjab,,942,2.580821918,700.46
+IN-UP,2018,India,Uttar Pradesh,,7422,20.33424658,666.3809035
+IN-UP,2019,India,Uttar Pradesh,,8431,23.09863014,664.3899237
+IN-UP,2020,India,Uttar Pradesh,,2928,8.021917808,737.22
+IN-UP,2021,India,Uttar Pradesh,,6553,17.95342466,736.32
+IN-UT,2018,India,Uttarakhand,,143,0.391780822,336.3553664
+IN-UT,2020,India,Uttarakhand,,0,0,
+IN-UT,2021,India,Uttarakhand,,0,0,
+IT-CNO,2015,Italy,Central North,,8714,23.8739726,230.7442203
+IT-CNO,2016,Italy,Central North,,8784,24.06575342,242.1412432
+IT-CNO,2017,Italy,Central North,,8746,23.96164384,275.9204502
+IT-CNO,2018,Italy,Central North,,8752,23.97808219,299.0444073
+IT-CNO,2019,Italy,Central North,,8675,23.76712329,290.8305011
+IT-CNO,2020,Italy,Central North,,2928,8.021917808,287.7
+IT-CNO,2021,Italy,Central North,,6553,17.95342466,260.58
+IT-CSO,2015,Italy,Central South,,8709,23.86027397,527.3061474
+IT-CSO,2016,Italy,Central South,,8782,24.06027397,508.9676076
+IT-CSO,2017,Italy,Central South,,8746,23.96164384,504.0194867
+IT-CSO,2018,Italy,Central South,,8752,23.97808219,410.3159804
+IT-CSO,2019,Italy,Central South,,8675,23.76712329,391.6703764
+IT-CSO,2020,Italy,Central South,,2928,8.021917808,409.87
+IT-CSO,2021,Italy,Central South,,6553,17.95342466,350.48
+IT-NO,2015,Italy,North,,8714,23.8739726,360.9588795
+IT-NO,2016,Italy,North,,8784,24.06575342,411.5144735
+IT-NO,2017,Italy,North,,8746,23.96164384,400.7444745
+IT-NO,2018,Italy,North,,8752,23.97808219,368.6226418
+IT-NO,2019,Italy,North,,8675,23.76712329,329.4027308
+IT-NO,2020,Italy,North,,2928,8.021917808,294.65
+IT-NO,2021,Italy,North,,6553,17.95342466,280.76
+IT-SAR,2015,Italy,Sardinia,,8714,23.8739726,576.77291
+IT-SAR,2016,Italy,Sardinia,,8784,24.06575342,561.347542
+IT-SAR,2017,Italy,Sardinia,,8746,23.96164384,592.0160276
+IT-SAR,2018,Italy,Sardinia,,8738,23.93972603,586.5109977
+IT-SAR,2019,Italy,Sardinia,,8652,23.70410959,506.6227924
+IT-SAR,2020,Italy,Sardinia,,2928,8.021917808,511.4
+IT-SAR,2021,Italy,Sardinia,,6553,17.95342466,479.21
+IT-SIC,2015,Italy,Sicily,,8714,23.8739726,431.8090755
+IT-SIC,2016,Italy,Sicily,,8784,24.06575342,384.4872623
+IT-SIC,2017,Italy,Sicily,,8746,23.96164384,379.5440997
+IT-SIC,2018,Italy,Sicily,,8752,23.97808219,340.2604429
+IT-SIC,2019,Italy,Sicily,,8675,23.76712329,355.980965
+IT-SIC,2020,Italy,Sicily,,2928,8.021917808,369.07
+IT-SIC,2021,Italy,Sicily,,6553,17.95342466,342.6
+IT-SO,2015,Italy,South,,8714,23.8739726,299.8463556
+IT-SO,2016,Italy,South,,8784,24.06575342,312.5896838
+IT-SO,2017,Italy,South,,8745,23.95890411,313.7483453
+IT-SO,2018,Italy,South,,8540,23.39726027,293.1379385
+IT-SO,2019,Italy,South,,7212,19.75890411,367.4118328
+IT-SO,2020,Italy,South,,2928,8.021917808,375.59
+IT-SO,2021,Italy,South,,6553,17.95342466,336.63
+JP-CB,2016,Japan,ChÅ«bu,,3522,9.649315068,462.8812027
+JP-CB,2017,Japan,ChÅ«bu,,4559,12.49041096,464.376107
+JP-CB,2018,Japan,ChÅ«bu,,4569,12.51780822,454.5890522
+JP-CB,2019,Japan,ChÅ«bu,,4175,11.43835616,456.2517135
+JP-CB,2020,Japan,ChÅ«bu,,0,0,
+JP-CB,2021,Japan,ChÅ«bu,,0,0,
+JP-CG,2016,Japan,ChÅ«goku,,3522,9.649315068,599.0846852
+JP-CG,2017,Japan,ChÅ«goku,,4559,12.49041096,586.9428557
+JP-CG,2018,Japan,ChÅ«goku,,4569,12.51780822,551.3971665
+JP-CG,2019,Japan,ChÅ«goku,,4175,11.43835616,523.3807108
+JP-CG,2020,Japan,ChÅ«goku,,0,0,
+JP-CG,2021,Japan,ChÅ«goku,,0,0,
+JP-HKD,2016,Japan,HokkaidÅ,,3623,9.926027397,512.2173449
+JP-HKD,2017,Japan,HokkaidÅ,,4559,12.49041096,544.9196115
+JP-HKD,2018,Japan,HokkaidÅ,,4568,12.51506849,513.5188895
+JP-HKD,2019,Japan,HokkaidÅ,,4186,11.46849315,533.6692424
+JP-HKD,2020,Japan,HokkaidÅ,,0,0,
+JP-HKD,2021,Japan,HokkaidÅ,,0,0,
+JP-HR,2016,Japan,Hokuriku,,3522,9.649315068,509.9404283
+JP-HR,2017,Japan,Hokuriku,,4559,12.49041096,490.4354519
+JP-HR,2018,Japan,Hokuriku,,4569,12.51780822,484.7647833
+JP-HR,2019,Japan,Hokuriku,,4175,11.43835616,481.1768297
+JP-HR,2020,Japan,Hokuriku,,0,0,
+JP-HR,2021,Japan,Hokuriku,,0,0,
+JP-KN,2016,Japan,Kansai,,3522,9.649315068,592.1784358
+JP-KN,2017,Japan,Kansai,,4559,12.49041096,544.2161852
+JP-KN,2018,Japan,Kansai,,4569,12.51780822,462.8932924
+JP-KN,2019,Japan,Kansai,,4150,11.36986301,447.7367628
+JP-KN,2020,Japan,Kansai,,2928,8.021917808,481.45
+JP-KN,2021,Japan,Kansai,,6553,17.95342466,483.37
+JP-KY,2016,Japan,KyÅ«shÅ«,,3522,9.649315068,506.2630916
+JP-KY,2017,Japan,KyÅ«shÅ«,,4559,12.49041096,501.1099052
+JP-KY,2018,Japan,KyÅ«shÅ«,,4569,12.51780822,442.559561
+JP-KY,2019,Japan,KyÅ«shÅ«,,4919,13.47671233,387.0541232
+JP-KY,2020,Japan,KyÅ«shÅ«,,2912,7.978082192,507.67
+JP-KY,2021,Japan,KyÅ«shÅ«,,6304,17.27123288,379.89
+JP-ON,2016,Japan,Okinawa,,1786,4.893150685,671.4747987
+JP-ON,2017,Japan,Okinawa,,4559,12.49041096,667.1936255
+JP-ON,2018,Japan,Okinawa,,4553,12.4739726,664.710904
+JP-ON,2019,Japan,Okinawa,,4175,11.43835616,666.8791701
+JP-ON,2020,Japan,Okinawa,,0,0,
+JP-ON,2021,Japan,Okinawa,,0,0,
+JP-SK,2016,Japan,Shikoku,,3522,9.649315068,531.6951417
+JP-SK,2017,Japan,Shikoku,,4559,12.49041096,512.9755701
+JP-SK,2018,Japan,Shikoku,,4569,12.51780822,550.4761339
+JP-SK,2019,Japan,Shikoku,,4175,11.43835616,463.781717
+JP-SK,2020,Japan,Shikoku,,0,0,
+JP-SK,2021,Japan,Shikoku,,0,0,
+JP-TH,2016,Japan,TÅhoku,,3522,9.649315068,574.4377651
+JP-TH,2017,Japan,TÅhoku,,4559,12.49041096,561.1731166
+JP-TH,2018,Japan,TÅhoku,,4569,12.51780822,552.3982888
+JP-TH,2019,Japan,TÅhoku,,4175,11.43835616,544.0986658
+JP-TH,2020,Japan,TÅhoku,,0,0,
+JP-TH,2021,Japan,TÅhoku,,0,0,
+JP-TK,2016,Japan,TÅkyÅ,,3522,9.649315068,636.7341589
+JP-TK,2017,Japan,TÅkyÅ,,4559,12.49041096,625.4546787
+JP-TK,2018,Japan,TÅkyÅ,,4569,12.51780822,617.9414226
+JP-TK,2019,Japan,TÅkyÅ,,4175,11.43835616,606.2187907
+JP-TK,2020,Japan,TÅkyÅ,,2928,8.021917808,581.45
+JP-TK,2021,Japan,TÅkyÅ,,6553,17.95342466,575.73
+MY-WM,2017,Malaysia,Peninsula,,787,2.156164384,628.4026454
+MY-WM,2018,Malaysia,Peninsula,,8212,22.49863014,658.4156593
+MY-WM,2019,Malaysia,Peninsula,,8574,23.49041096,660.7738129
+MY-WM,2020,Malaysia,Peninsula,,2901,7.947945205,674.7
+MY-WM,2021,Malaysia,Peninsula,,2851,7.810958904,661.95
+NO-NO1,2014,Norway,Southeast Norway,,433,1.18630137,31.23899064
+NO-NO1,2015,Norway,Southeast Norway,,8683,23.7890411,32.17588992
+NO-NO1,2016,Norway,Southeast Norway,,8777,24.04657534,32.43585836
+NO-NO1,2017,Norway,Southeast Norway,,8690,23.80821918,34.05180819
+NO-NO1,2018,Norway,Southeast Norway,,8752,23.97808219,38.10118059
+NO-NO1,2019,Norway,Southeast Norway,,8760,24,37.92143295
+NO-NO1,2020,Norway,Southeast Norway,,2928,8.021917808,27.31
+NO-NO1,2021,Norway,Southeast Norway,,6553,17.95342466,31.37
+NO-NO2,2014,Norway,Southwest Norway,,433,1.18630137,24.20759438
+NO-NO2,2015,Norway,Southwest Norway,,8694,23.81917808,31.15319288
+NO-NO2,2016,Norway,Southwest Norway,,8784,24.06575342,32.31550011
+NO-NO2,2017,Norway,Southwest Norway,,8690,23.80821918,35.75581269
+NO-NO2,2018,Norway,Southwest Norway,,8760,24,43.52222146
+NO-NO2,2019,Norway,Southwest Norway,,8758,23.99452055,50.34270791
+NO-NO2,2020,Norway,Southwest Norway,,2928,8.021917808,25.38
+NO-NO2,2021,Norway,Southwest Norway,,6553,17.95342466,33.72
+NO-NO3,2014,Norway,Middle Norway,,433,1.18630137,39.96712404
+NO-NO3,2015,Norway,Middle Norway,,8694,23.81917808,40.41381086
+NO-NO3,2016,Norway,Middle Norway,,8784,24.06575342,40.93297922
+NO-NO3,2017,Norway,Middle Norway,,8690,23.80821918,34.78732371
+NO-NO3,2018,Norway,Middle Norway,,8760,24,46.53918633
+NO-NO3,2019,Norway,Middle Norway,,8758,23.99452055,38.33705633
+NO-NO3,2020,Norway,Middle Norway,,2928,8.021917808,28.28
+NO-NO3,2021,Norway,Middle Norway,,6553,17.95342466,27.81
+NO-NO4,2014,Norway,North Norway,,433,1.18630137,69.16779351
+NO-NO4,2015,Norway,North Norway,,8619,23.61369863,70.6391852
+NO-NO4,2016,Norway,North Norway,,8784,24.06575342,60.2632502
+NO-NO4,2017,Norway,North Norway,,8690,23.80821918,54.05378559
+NO-NO4,2018,Norway,North Norway,,8760,24,59.3839342
+NO-NO4,2019,Norway,North Norway,,8758,23.99452055,58.59039316
+NO-NO4,2020,Norway,North Norway,,2928,8.021917808,30.78
+NO-NO4,2021,Norway,North Norway,,6553,17.95342466,30
+NO-NO5,2014,Norway,West Norway,,433,1.18630137,33.7716213
+NO-NO5,2015,Norway,West Norway,,8694,23.81917808,36.2760116
+NO-NO5,2016,Norway,West Norway,,8712,23.86849315,36.99529183
+NO-NO5,2017,Norway,West Norway,,8690,23.80821918,39.43812755
+NO-NO5,2018,Norway,West Norway,,8760,24,41.17302356
+NO-NO5,2019,Norway,West Norway,,8758,23.99452055,39.70429769
+NO-NO5,2020,Norway,West Norway,,2928,8.021917808,32.75
+NO-NO5,2021,Norway,West Norway,,6553,17.95342466,38
+NZ-NZN,2017,New Zealand,North Island,,6041,16.55068493,185.1819705
+NZ-NZN,2018,New Zealand,North Island,,8691,23.8109589,167.5234405
+NZ-NZN,2019,New Zealand,North Island,,8723,23.89863014,177.583456
+NZ-NZN,2020,New Zealand,North Island,,2568,7.035616438,176.93
+NZ-NZN,2021,New Zealand,North Island,,6552,17.95068493,230.52
+NZ-NZS,2017,New Zealand,South Island,,6041,16.55068493,38.16195604
+NZ-NZS,2018,New Zealand,South Island,,8691,23.8109589,26.61038813
+NZ-NZS,2019,New Zealand,South Island,,8721,23.89315068,24.88242468
+NZ-NZS,2020,New Zealand,South Island,,2567,7.032876712,24.5
+NZ-NZS,2021,New Zealand,South Island,,6552,17.95068493,28.1
+RU-1,2018,Russia,European Russia and Ural,,4452,12.19726027,358.9483393
+RU-1,2019,Russia,European Russia and Ural,,6131,16.79726027,355.9664892
+RU-1,2020,Russia,European Russia and Ural,,2928,8.021917808,350.77
+RU-1,2021,Russia,European Russia and Ural,,6553,17.95342466,357.65
+RU-2,2018,Russia,Siberia,,4452,12.19726027,355.4938497
+RU-2,2019,Russia,Siberia,,6131,16.79726027,409.5741182
+RU-2,2020,Russia,Siberia,,2928,8.021917808,502.63
+RU-2,2021,Russia,Siberia,,6553,17.95342466,472.45
+US-BPA,2018,United States of America,BPA,,5788,15.85753425,78.88729971
+US-BPA,2019,United States of America,BPA,,8739,23.94246575,77.0133852
+US-CA,2011,United States of America,California,,8706,23.85205479,252.8213642
+US-CA,2012,United States of America,California,,8713,23.87123288,311.8082943
+US-CA,2013,United States of America,California,,8759,23.99726027,307.8690369
+US-CA,2014,United States of America,California,,8717,23.88219178,309.0196892
+US-CA,2015,United States of America,California,,8739,23.94246575,296.2467054
+US-CA,2016,United States of America,California,,8763,24.00821918,249.5644764
+US-CA,2017,United States of America,California,,8738,23.93972603,232.005474
+US-CA,2018,United States of America,California,,8760,24,243.7944704
+US-CA,2019,United States of America,California,,8568,23.4739726,230.8466435
+US-CAL-BANC,2018,United States of America,Balancing Authority Of Northern California,,4097,11.22465753,296.8811497
+US-CAL-BANC,2019,United States of America,Balancing Authority Of Northern California,,8534,23.38082192,220.8254401
+US-CAL-BANC,2020,United States of America,Balancing Authority Of Northern California,,2928,8.021917808,280.49
+US-CAL-BANC,2021,United States of America,Balancing Authority Of Northern California,,6553,17.95342466,260.23
+US-CAL-CISO,2018,United States of America,California Independent System Operator,,4373,11.98082192,285.6670334
+US-CAL-CISO,2019,United States of America,California Independent System Operator,,8642,23.67671233,251.1713658
+US-CAL-CISO,2020,United States of America,California Independent System Operator,,2928,8.021917808,297.77
+US-CAL-CISO,2021,United States of America,California Independent System Operator,,6553,17.95342466,262.1
+US-CAL-IID,2018,United States of America,Imperial Irrigation District,,4358,11.93972603,593.4441598
+US-CAL-IID,2019,United States of America,Imperial Irrigation District,,8595,23.54794521,589.5391088
+US-CAL-IID,2020,United States of America,Imperial Irrigation District,,2367,6.484931507,597.84
+US-CAL-IID,2021,United States of America,Imperial Irrigation District,,5998,16.43287671,573.75
+US-CAL-LDWP,2018,United States of America,Los Angeles Department Of Water And Power,,4150,11.36986301,448.5592866
+US-CAL-LDWP,2019,United States of America,Los Angeles Department Of Water And Power,,8501,23.29041096,378.7723925
+US-CAL-LDWP,2020,United States of America,Los Angeles Department Of Water And Power,,2928,8.021917808,398.86
+US-CAL-LDWP,2021,United States of America,Los Angeles Department Of Water And Power,,6553,17.95342466,374.28
+US-CAL-TIDC,2018,United States of America,Turlock Irrigation District,,4393,12.03561644,358.7927184
+US-CAL-TIDC,2019,United States of America,Turlock Irrigation District,,8473,23.21369863,299.2948179
+US-CAL-TIDC,2020,United States of America,Turlock Irrigation District,,2807,7.690410959,353.76
+US-CAL-TIDC,2021,United States of America,Turlock Irrigation District,,6319,17.31232877,347.72
+US-CAR-CPLE,2018,United States of America,Duke Energy Progress East,,4273,11.70684932,325.0585832
+US-CAR-CPLE,2019,United States of America,Duke Energy Progress East,,8138,22.29589041,315.7524839
+US-CAR-CPLE,2020,United States of America,Duke Energy Progress East,,2397,6.567123288,297.68
+US-CAR-CPLE,2021,United States of America,Duke Energy Progress East,,6026,16.50958904,302.22
+US-CAR-CPLW,2018,United States of America,Duke Energy Progress West,,3968,10.87123288,431.9780322
+US-CAR-CPLW,2019,United States of America,Duke Energy Progress West,,7710,21.12328767,404.2580142
+US-CAR-CPLW,2020,United States of America,Duke Energy Progress West,,2789,7.64109589,425.32
+US-CAR-CPLW,2021,United States of America,Duke Energy Progress West,,6367,17.44383562,460.16
+US-CAR-DUK,2018,United States of America,Duke Energy Carolinas,,4408,12.07671233,285.0212825
+US-CAR-DUK,2019,United States of America,Duke Energy Carolinas,,8720,23.89041096,274.2010258
+US-CAR-DUK,2020,United States of America,Duke Energy Carolinas,,2928,8.021917808,250.98
+US-CAR-DUK,2021,United States of America,Duke Energy Carolinas,,6553,17.95342466,282.24
+US-CAR-SC,2018,United States of America,South Carolina Public Service Authority,,4332,11.86849315,568.2773647
+US-CAR-SC,2019,United States of America,South Carolina Public Service Authority,,8636,23.66027397,499.5429401
+US-CAR-SC,2020,United States of America,South Carolina Public Service Authority,,2928,8.021917808,489.34
+US-CAR-SC,2021,United States of America,South Carolina Public Service Authority,,6553,17.95342466,517.87
+US-CAR-SCEG,2018,United States of America,South Carolina Electric & Gas Company,,4411,12.08493151,491.2345156
+US-CAR-SCEG,2019,United States of America,South Carolina Electric & Gas Company,,8737,23.9369863,420.7965088
+US-CAR-SCEG,2020,United States of America,South Carolina Electric & Gas Company,,2812,7.704109589,383
+US-CAR-SCEG,2021,United States of America,South Carolina Electric & Gas Company,,6343,17.37808219,390.57
+US-CAR-YAD,2018,United States of America,"Alcoa Power Generating, Inc. Yadkin Division",,3940,10.79452055,57.01922242
+US-CAR-YAD,2019,United States of America,"Alcoa Power Generating, Inc. Yadkin Division",,7677,21.03287671,58.39357814
+US-CAR-YAD,2020,United States of America,"Alcoa Power Generating, Inc. Yadkin Division",,2595,7.109589041,28.21
+US-CAR-YAD,2021,United States of America,"Alcoa Power Generating, Inc. Yadkin Division",,5393,14.77534247,40.36
+US-CENT-SPA,2018,United States of America,Southwestern Power Administration,,4410,12.08219178,314.7632897
+US-CENT-SPA,2019,United States of America,Southwestern Power Administration,,8760,24,155.2943503
+US-CENT-SPA,2020,United States of America,Southwestern Power Administration,,2810,7.698630137,265.75
+US-CENT-SPA,2021,United States of America,Southwestern Power Administration,,6387,17.49863014,167.84
+US-CENT-SWPP,2018,United States of America,Southwest Power Pool,,2946,8.071232877,461.3464092
+US-CENT-SWPP,2019,United States of America,Southwest Power Pool,,8736,23.93424658,404.8616534
+US-CENT-SWPP,2020,United States of America,Southwest Power Pool,,2928,8.021917808,388.33
+US-CENT-SWPP,2021,United States of America,Southwest Power Pool,,6553,17.95342466,411.98
+US-FLA-FMPP,2018,United States of America,Florida Municipal Power Pool,,4322,11.84109589,567.7400398
+US-FLA-FMPP,2019,United States of America,Florida Municipal Power Pool,,8698,23.83013699,550.0181419
+US-FLA-FMPP,2020,United States of America,Florida Municipal Power Pool,,2771,7.591780822,573.45
+US-FLA-FMPP,2021,United States of America,Florida Municipal Power Pool,,6290,17.23287671,547.21
+US-FLA-FPC,2018,United States of America,Duke Energy Florida Inc,,4411,12.08493151,502.2144871
+US-FLA-FPC,2019,United States of America,Duke Energy Florida Inc,,8738,23.93972603,479.8059653
+US-FLA-FPC,2020,United States of America,Duke Energy Florida Inc,,2218,6.076712329,500.48
+US-FLA-FPC,2021,United States of America,Duke Energy Florida Inc,,6242,17.10136986,521.97
+US-FLA-FPL,2018,United States of America,Florida Power & Light Company,,4411,12.08493151,407.2825778
+US-FLA-FPL,2019,United States of America,Florida Power & Light Company,,8760,24,390.5792641
+US-FLA-FPL,2020,United States of America,Florida Power & Light Company,,2928,8.021917808,409.11
+US-FLA-FPL,2021,United States of America,Florida Power & Light Company,,6553,17.95342466,397.64
+US-FLA-GVL,2018,United States of America,Gainesville Regional Utilities,,4183,11.46027397,600.0492508
+US-FLA-GVL,2019,United States of America,Gainesville Regional Utilities,,7608,20.84383562,635.0349389
+US-FLA-GVL,2020,United States of America,Gainesville Regional Utilities,,2792,7.649315068,586.08
+US-FLA-GVL,2021,United States of America,Gainesville Regional Utilities,,6049,16.57260274,634.8
+US-FLA-HST,2018,United States of America,City Of Homestead,,58,0.15890411,431.5727906
+US-FLA-HST,2019,United States of America,City Of Homestead,,174,0.476712329,405.399872
+US-FLA-HST,2020,United States of America,City Of Homestead,,1,0.002739726,0.32
+US-FLA-HST,2021,United States of America,City Of Homestead,,77,0.210958904,5.75
+US-FLA-JEA,2018,United States of America,JEA,,4370,11.97260274,562.2818554
+US-FLA-JEA,2019,United States of America,JEA,,8550,23.42465753,551.6214169
+US-FLA-JEA,2020,United States of America,JEA,,2097,5.745205479,572.77
+US-FLA-JEA,2021,United States of America,JEA,,4749,13.0109589,559.49
+US-FLA-SEC,2018,United States of America,Seminole Electric Cooperative,,4205,11.52054795,701.9694989
+US-FLA-SEC,2019,United States of America,Seminole Electric Cooperative,,2211,6.057534247,678.9317946
+US-FLA-SEC,2020,United States of America,Seminole Electric Cooperative,,2275,6.232876712,681.87
+US-FLA-SEC,2021,United States of America,Seminole Electric Cooperative,,5719,15.66849315,664.42
+US-FLA-TAL,2018,United States of America,City Of Tallahassee,,4411,12.08493151,475.3929792
+US-FLA-TAL,2019,United States of America,City Of Tallahassee,,8749,23.96986301,473.8444263
+US-FLA-TAL,2020,United States of America,City Of Tallahassee,,2812,7.704109589,473.21
+US-FLA-TAL,2021,United States of America,City Of Tallahassee,,6383,17.48767123,468.99
+US-FLA-TEC,2018,United States of America,Tampa Electric Company,,4409,12.07945205,578.9660497
+US-FLA-TEC,2019,United States of America,Tampa Electric Company,,8721,23.89315068,551.5863794
+US-FLA-TEC,2020,United States of America,Tampa Electric Company,,2586,7.084931507,555.08
+US-FLA-TEC,2021,United States of America,Tampa Electric Company,,6010,16.46575342,548.02
+US-HI-OA,2019,United States of America,Oahu,,3573,9.789041096,628.7329038
+US-HI-OA,2020,United States of America,Oahu,,2552,6.991780822,614.57
+US-HI-OA,2021,United States of America,Oahu,,3770,10.32876712,596.29
+US-IPC,2018,United States of America,IPC,,6473,17.73424658,255.0732277
+US-IPC,2019,United States of America,IPC,,1657,4.539726027,315.6493329
+US-MIDA-OVEC,2018,United States of America,Ohio Valley Electric Corporation,,3674,10.06575342,778.3278762
+US-MIDA-OVEC,2020,United States of America,Ohio Valley Electric Corporation,,0,0,
+US-MIDA-OVEC,2021,United States of America,Ohio Valley Electric Corporation,,0,0,
+US-MIDA-PJM,2018,United States of America,"PJM Interconnection, Llc",,2686,7.35890411,386.000922
+US-MIDA-PJM,2019,United States of America,"PJM Interconnection, Llc",,8760,24,383.1098856
+US-MIDA-PJM,2020,United States of America,"PJM Interconnection, Llc",,2928,8.021917808,362.6
+US-MIDA-PJM,2021,United States of America,"PJM Interconnection, Llc",,6553,17.95342466,390.26
+US-MIDW-AECI,2018,United States of America,"Associated Electric Cooperative, Inc.",,4359,11.94246575,643.8086344
+US-MIDW-AECI,2019,United States of America,"Associated Electric Cooperative, Inc.",,8735,23.93150685,607.2110912
+US-MIDW-AECI,2020,United States of America,"Associated Electric Cooperative, Inc.",,2779,7.61369863,596.62
+US-MIDW-AECI,2021,United States of America,"Associated Electric Cooperative, Inc.",,6358,17.41917808,566.69
+US-MIDW-EEI,2018,United States of America,"Electric Energy, Inc.",,2976,8.153424658,788.5554542
+US-MIDW-EEI,2019,United States of America,"Electric Energy, Inc.",,5783,15.84383562,802.653135
+US-MIDW-EEI,2020,United States of America,"Electric Energy, Inc.",,0,0,
+US-MIDW-EEI,2021,United States of America,"Electric Energy, Inc.",,0,0,
+US-MIDW-LGEE,2018,United States of America,Louisville Gas And Electric Company And Kentucky Utilities,,3178,8.706849315,717.1889013
+US-MIDW-LGEE,2019,United States of America,Louisville Gas And Electric Company And Kentucky Utilities,,8668,23.74794521,712.8496689
+US-MIDW-LGEE,2020,United States of America,Louisville Gas And Electric Company And Kentucky Utilities,,2640,7.232876712,725.06
+US-MIDW-LGEE,2021,United States of America,Louisville Gas And Electric Company And Kentucky Utilities,,6246,17.11232877,725.08
+US-MIDW-MISO,2018,United States of America,"Midcontinent Independent Transmission System Operator, Inc..",,4410,12.08219178,531.8361945
+US-MIDW-MISO,2019,United States of America,"Midcontinent Independent Transmission System Operator, Inc..",,8760,24,478.7393046
+US-MIDW-MISO,2020,United States of America,"Midcontinent Independent Transmission System Operator, Inc..",,2928,8.021917808,443.42
+US-MIDW-MISO,2021,United States of America,"Midcontinent Independent Transmission System Operator, Inc..",,6553,17.95342466,477.15
+US-MISO,2013,United States of America,MISO,,715,1.95890411,648.4536359
+US-MISO,2014,United States of America,MISO,,8753,23.98082192,612.9534502
+US-MISO,2015,United States of America,MISO,,8759,23.99726027,565.3108426
+US-MISO,2016,United States of America,MISO,,8773,24.03561644,544.4387785
+US-MISO,2017,United States of America,MISO,,8758,23.99452055,545.068896
+US-MISO,2018,United States of America,MISO,,7615,20.8630137,541.4815832
+US-MISO,2019,United States of America,MISO,,8301,22.74246575,502.7425669
+US-NE-ISNE,2018,United States of America,Iso New England Inc.,,4411,12.08493151,318.1288006
+US-NE-ISNE,2019,United States of America,Iso New England Inc.,,8760,24,294.1019179
+US-NE-ISNE,2020,United States of America,Iso New England Inc.,,2891,7.920547945,250.26
+US-NE-ISNE,2021,United States of America,Iso New England Inc.,,6205,17,259.87
+US-NEISO,2014,United States of America,New England,,3667,10.04657534,269.2521288
+US-NEISO,2015,United States of America,New England,,8758,23.99452055,300.0305951
+US-NEISO,2016,United States of America,New England,,8469,23.20273973,285.8186571
+US-NEISO,2017,United States of America,New England,,8668,23.74794521,276.7223815
+US-NEISO,2018,United States of America,New England,,7080,19.39726027,260.3977647
+US-NEISO,2019,United States of America,New England,,8738,23.93972603,259.1125176
+US-NW-AVA,2018,United States of America,Avista Corporation,,4408,12.07671233,254.8044252
+US-NW-AVA,2019,United States of America,Avista Corporation,,8737,23.9369863,209.8632816
+US-NW-AVA,2020,United States of America,Avista Corporation,,2812,7.704109589,204.51
+US-NW-AVA,2021,United States of America,Avista Corporation,,6389,17.50410959,183.32
+US-NW-AVRN,2018,United States of America,Avangrid Renewables Cooperative,,2299,6.298630137,11
+US-NW-AVRN,2019,United States of America,Avangrid Renewables Cooperative,,8336,22.83835616,79.30742495
+US-NW-BPAT,2018,United States of America,Bonneville Power Administration,,4143,11.35068493,132.5329759
+US-NW-BPAT,2019,United States of America,Bonneville Power Administration,,8364,22.91506849,119.6377064
+US-NW-BPAT,2020,United States of America,Bonneville Power Administration,,2928,8.021917808,77.85
+US-NW-BPAT,2021,United States of America,Bonneville Power Administration,,6553,17.95342466,81.56
+US-NW-CHPD,2018,United States of America,PUD No. 1 Of Chelan County,,4386,12.01643836,27.17622542
+US-NW-CHPD,2019,United States of America,PUD No. 1 Of Chelan County,,8716,23.87945205,26.58993304
+US-NW-CHPD,2020,United States of America,PUD No. 1 Of Chelan County,,2789,7.64109589,28.06
+US-NW-CHPD,2021,United States of America,PUD No. 1 Of Chelan County,,6369,17.44931507,25.77
+US-NW-DOPD,2018,United States of America,PUD No. 1 Of Douglas County,,4232,11.59452055,30.54816669
+US-NW-DOPD,2019,United States of America,PUD No. 1 Of Douglas County,,8612,23.59452055,30.53483768
+US-NW-DOPD,2020,United States of America,PUD No. 1 Of Douglas County,,2315,6.342465753,26.5
+US-NW-DOPD,2021,United States of America,PUD No. 1 Of Douglas County,,6338,17.36438356,27.38
+US-NW-GCPD,2018,United States of America,"PUD No. 2 Of Grant County, Washington",,4408,12.07671233,53.11618518
+US-NW-GCPD,2019,United States of America,"PUD No. 2 Of Grant County, Washington",,8760,24,50.47708931
+US-NW-GCPD,2020,United States of America,"PUD No. 2 Of Grant County, Washington",,2812,7.704109589,41.73
+US-NW-GCPD,2021,United States of America,"PUD No. 2 Of Grant County, Washington",,6389,17.50410959,44.78
+US-NW-GRID,2018,United States of America,"Gridforce Energy Management, Llc",,4272,11.70410959,488.0532191
+US-NW-GRID,2019,United States of America,"Gridforce Energy Management, Llc",,7682,21.04657534,489.1475427
+US-NW-GRID,2020,United States of America,"Gridforce Energy Management, Llc",,2723,7.460273973,647.68
+US-NW-GRID,2021,United States of America,"Gridforce Energy Management, Llc",,6344,17.38082192,467.08
+US-NW-GWA,2018,United States of America,"Naturener Power Watch, Llc (Gwa)",,3254,8.915068493,15.09821861
+US-NW-GWA,2019,United States of America,"Naturener Power Watch, Llc (Gwa)",,6968,19.09041096,16.31864148
+US-NW-GWA,2020,United States of America,"Naturener Power Watch, Llc (Gwa)",,2343,6.419178082,21.43
+US-NW-GWA,2021,United States of America,"Naturener Power Watch, Llc (Gwa)",,5223,14.30958904,16.27
+US-NW-IPCO,2018,United States of America,Idaho Power Company,,4362,11.95068493,390.2703439
+US-NW-IPCO,2019,United States of America,Idaho Power Company,,8701,23.83835616,311.6075541
+US-NW-IPCO,2020,United States of America,Idaho Power Company,,2712,7.430136986,333.65
+US-NW-IPCO,2021,United States of America,Idaho Power Company,,6356,17.41369863,293.29
+US-NW-NEVP,2018,United States of America,Nevada Power Company,,4406,12.07123288,503.5765984
+US-NW-NEVP,2019,United States of America,Nevada Power Company,,8752,23.97808219,480.7795024
+US-NW-NEVP,2020,United States of America,Nevada Power Company,,2928,8.021917808,471.03
+US-NW-NEVP,2021,United States of America,Nevada Power Company,,6553,17.95342466,452.91
+US-NW-NWMT,2018,United States of America,Northwestern Energy,,4363,11.95342466,571.3947947
+US-NW-NWMT,2019,United States of America,Northwestern Energy,,8655,23.71232877,549.1934649
+US-NW-NWMT,2020,United States of America,Northwestern Energy,,2812,7.704109589,441.21
+US-NW-NWMT,2021,United States of America,Northwestern Energy,,6384,17.49041096,504.92
+US-NW-PACE,2018,United States of America,Pacificorp East,,4334,11.8739726,592.3097629
+US-NW-PACE,2019,United States of America,Pacificorp East,,8060,22.08219178,560.6063615
+US-NW-PACE,2020,United States of America,Pacificorp East,,2928,8.021917808,552.91
+US-NW-PACE,2021,United States of America,Pacificorp East,,6553,17.95342466,510.72
+US-NW-PACW,2018,United States of America,Pacificorp West,,4355,11.93150685,387.2966789
+US-NW-PACW,2019,United States of America,Pacificorp West,,8734,23.92876712,359.5849813
+US-NW-PACW,2020,United States of America,Pacificorp West,,2766,7.578082192,335.06
+US-NW-PACW,2021,United States of America,Pacificorp West,,6136,16.8109589,313.82
+US-NW-PGE,2018,United States of America,Portland General Electric Company,,4308,11.80273973,213.2374958
+US-NW-PGE,2019,United States of America,Portland General Electric Company,,8006,21.93424658,191.2562497
+US-NW-PGE,2020,United States of America,Portland General Electric Company,,2928,8.021917808,167.41
+US-NW-PGE,2021,United States of America,Portland General Electric Company,,6553,17.95342466,179.09
+US-NW-PSCO,2018,United States of America,Public Service Company Of Colorado,,4401,12.05753425,575.689725
+US-NW-PSCO,2019,United States of America,Public Service Company Of Colorado,,8750,23.97260274,534.4944594
+US-NW-PSCO,2020,United States of America,Public Service Company Of Colorado,,2928,8.021917808,450.72
+US-NW-PSCO,2021,United States of America,Public Service Company Of Colorado,,6553,17.95342466,479.13
+US-NW-PSEI,2018,United States of America,Puget Sound Energy,,682,1.868493151,242.996993
+US-NW-PSEI,2019,United States of America,Puget Sound Energy,,8760,24,269.2512831
+US-NW-PSEI,2020,United States of America,Puget Sound Energy,,2766,7.578082192,207.58
+US-NW-PSEI,2021,United States of America,Puget Sound Energy,,5942,16.27945205,185.58
+US-NW-SCL,2018,United States of America,Seattle City Light,,4408,12.07671233,101.4584151
+US-NW-SCL,2019,United States of America,Seattle City Light,,8737,23.9369863,91.55737394
+US-NW-TPWR,2018,United States of America,"City Of Tacoma, Department Of Public Utilities, Light Division",,4384,12.0109589,106.8160559
+US-NW-TPWR,2019,United States of America,"City Of Tacoma, Department Of Public Utilities, Light Division",,8714,23.8739726,98.05323235
+US-NW-TPWR,2020,United States of America,"City Of Tacoma, Department Of Public Utilities, Light Division",,2788,7.638356164,66.36
+US-NW-TPWR,2021,United States of America,"City Of Tacoma, Department Of Public Utilities, Light Division",,6357,17.41643836,63.02
+US-NW-WACM,2018,United States of America,Western Area Power Administration - Rocky Mountain Region,,4297,11.77260274,580.4505906
+US-NW-WACM,2019,United States of America,Western Area Power Administration - Rocky Mountain Region,,8469,23.20273973,561.1634832
+US-NW-WACM,2020,United States of America,Western Area Power Administration - Rocky Mountain Region,,2928,8.021917808,581.31
+US-NW-WACM,2021,United States of America,Western Area Power Administration - Rocky Mountain Region,,6553,17.95342466,566.02
+US-NW-WAUW,2018,United States of America,Western Area Power Administration UGP West,,4382,12.00547945,263.4708263
+US-NW-WAUW,2019,United States of America,Western Area Power Administration UGP West,,8328,22.81643836,311.5314136
+US-NW-WAUW,2020,United States of America,Western Area Power Administration UGP West,,2388,6.542465753,258.92
+US-NW-WAUW,2021,United States of America,Western Area Power Administration UGP West,,5507,15.08767123,285.47
+US-NW-WWA,2018,United States of America,"Naturener Wind Watch, Llc",,3272,8.964383562,12.36953415
+US-NW-WWA,2019,United States of America,"Naturener Wind Watch, Llc",,7244,19.84657534,12.46515552
+US-NW-WWA,2020,United States of America,"Naturener Wind Watch, Llc",,2451,6.715068493,9.93
+US-NW-WWA,2021,United States of America,"Naturener Wind Watch, Llc",,5543,15.18630137,10.17
+US-NY,2018,United States of America,New York,,6181,16.93424658,241.1898828
+US-NY,2019,United States of America,New York,,8760,24,222.3985491
+US-PJM,2015,United States of America,PJM,,5132,14.06027397,423.3229256
+US-PJM,2016,United States of America,PJM,,8775,24.04109589,419.2939627
+US-PJM,2017,United States of America,PJM,,8644,23.68219178,399.8160033
+US-PJM,2018,United States of America,PJM,,8216,22.50958904,396.9292724
+US-PJM,2019,United States of America,PJM,,7943,21.76164384,380.1530412
+US-SC,2018,United States of America,South Carolina,,4332,11.86849315,690.8546997
+US-SC,2019,United States of America,South Carolina,,8636,23.66027397,661.7029804
+US-SE-AEC,2018,United States of America,Powersouth Energy Cooperative,,4118,11.28219178,581.9945401
+US-SE-AEC,2019,United States of America,Powersouth Energy Cooperative,,8138,22.29589041,538.0519248
+US-SE-AEC,2020,United States of America,Powersouth Energy Cooperative,,2812,7.704109589,477.83
+US-SE-AEC,2021,United States of America,Powersouth Energy Cooperative,,5653,15.48767123,481.08
+US-SE-SEPA,2018,United States of America,Southeastern Power Administration,,1513,4.145205479,145.4981267
+US-SE-SEPA,2019,United States of America,Southeastern Power Administration,,2867,7.854794521,125.2573422
+US-SE-SEPA,2020,United States of America,Southeastern Power Administration,,973,2.665753425,52.25
+US-SE-SEPA,2021,United States of America,Southeastern Power Administration,,1640,4.493150685,22.26
+US-SE-SOCO,2018,United States of America,"Southern Company Services, Inc. - Trans",,4291,11.75616438,460.8205025
+US-SE-SOCO,2019,United States of America,"Southern Company Services, Inc. - Trans",,8736,23.93424658,437.5875149
+US-SE-SOCO,2020,United States of America,"Southern Company Services, Inc. - Trans",,2928,8.021917808,421.11
+US-SE-SOCO,2021,United States of America,"Southern Company Services, Inc. - Trans",,6553,17.95342466,434.03
+US-SPP,2011,United States of America,SPP,,8754,23.98356164,638.3429036
+US-SPP,2012,United States of America,SPP,,8784,24.06575342,614.7708296
+US-SPP,2013,United States of America,SPP,,8760,24,607.6915659
+US-SPP,2014,United States of America,SPP,,8760,24,587.2555547
+US-SPP,2015,United States of America,SPP,,8738,23.93972603,557.7982511
+US-SPP,2016,United States of America,SPP,,3200,8.767123288,470.0527714
+US-SPP,2017,United States of America,SPP,,8729,23.91506849,476.7799138
+US-SPP,2018,United States of America,SPP,,8754,23.98356164,464.0813209
+US-SPP,2019,United States of America,SPP,,8749,23.96986301,412.612355
+US-SVERI,2018,United States of America,SVERI,,573,1.569863014,461.1581343
+US-SW-AZPS,2018,United States of America,Arizona Public Service Company,,4408,12.07671233,310.989442
+US-SW-AZPS,2019,United States of America,Arizona Public Service Company,,7996,21.90684932,272.3909244
+US-SW-AZPS,2020,United States of America,Arizona Public Service Company,,2605,7.136986301,434.04
+US-SW-AZPS,2021,United States of America,Arizona Public Service Company,,6366,17.44109589,400.51
+US-SW-DEAA,2018,United States of America,"Arlington Valley, LLC",,3143,8.610958904,490
+US-SW-DEAA,2019,United States of America,"Arlington Valley, LLC",,7455,20.42465753,490
+US-SW-EPE,2018,United States of America,El Paso Electric Company,,4408,12.07671233,491.1783233
+US-SW-EPE,2019,United States of America,El Paso Electric Company,,8760,24,475.9635064
+US-SW-EPE,2020,United States of America,El Paso Electric Company,,2812,7.704109589,490.05
+US-SW-EPE,2021,United States of America,El Paso Electric Company,,6365,17.43835616,474.05
+US-SW-GRIF,2018,United States of America,"Griffith Energy, LLC",,4398,12.04931507,490.0000228
+US-SW-GRIF,2019,United States of America,"Griffith Energy, LLC",,8100,22.19178082,489.9966229
+US-SW-GRIF,2020,United States of America,"Griffith Energy, LLC",,2747,7.526027397,282.96
+US-SW-GRIF,2021,United States of America,"Griffith Energy, LLC",,5589,15.31232877,35.99
+US-SW-HGMA,2018,United States of America,"New Harquahala Generating Company, LLC",,27,0.073972603,490
+US-SW-HGMA,2020,United States of America,"New Harquahala Generating Company, LLC",,0,0,
+US-SW-HGMA,2021,United States of America,"New Harquahala Generating Company, LLC",,3044,8.339726027,4.99
+US-SW-PNM,2018,United States of America,Public Service Company Of New Mexico,,4408,12.07671233,529.692719
+US-SW-PNM,2019,United States of America,Public Service Company Of New Mexico,,8496,23.27671233,492.4204392
+US-SW-PNM,2020,United States of America,Public Service Company Of New Mexico,,2360,6.465753425,527.53
+US-SW-PNM,2021,United States of America,Public Service Company Of New Mexico,,4830,13.23287671,500.68
+US-SW-SRP,2018,United States of America,Salt River Project,,3832,10.49863014,285.3620806
+US-SW-SRP,2019,United States of America,Salt River Project,,8555,23.43835616,265.9745693
+US-SW-SRP,2020,United States of America,Salt River Project,,2928,8.021917808,290.26
+US-SW-SRP,2021,United States of America,Salt River Project,,6553,17.95342466,271.01
+US-SW-TEPC,2018,United States of America,Tucson Electric Power Company,,3739,10.24383562,548.5543575
+US-SW-TEPC,2019,United States of America,Tucson Electric Power Company,,8307,22.75890411,520.5418215
+US-SW-TEPC,2020,United States of America,Tucson Electric Power Company,,2692,7.375342466,561.58
+US-SW-TEPC,2021,United States of America,Tucson Electric Power Company,,5559,15.23013699,487.68
+US-SW-WALC,2018,United States of America,Western Area Power Administration - Desert Southwest Region,,4293,11.76164384,489.9865082
+US-SW-WALC,2019,United States of America,Western Area Power Administration - Desert Southwest Region,,8675,23.76712329,326.9929892
+US-SW-WALC,2020,United States of America,Western Area Power Administration - Desert Southwest Region,,2759,7.55890411,389.48
+US-SW-WALC,2021,United States of America,Western Area Power Administration - Desert Southwest Region,,4257,11.6630137,337.65
+US-TEN-TVA,2018,United States of America,Tennessee Valley Authority,,4027,11.03287671,338.2117412
+US-TEN-TVA,2019,United States of America,Tennessee Valley Authority,,8668,23.74794521,305.7434014
+US-TEN-TVA,2020,United States of America,Tennessee Valley Authority,,2928,8.021917808,258.13
+US-TEN-TVA,2021,United States of America,Tennessee Valley Authority,,6553,17.95342466,309.29
+US-TEX-ERCO,2018,United States of America,"Electric Reliability Council Of Texas, Inc.",,4339,11.88767123,442.7343033
+US-TEX-ERCO,2019,United States of America,"Electric Reliability Council Of Texas, Inc.",,5402,14.8,391.5687277
+US-TEX-ERCO,2020,United States of America,"Electric Reliability Council Of Texas, Inc.",,2928,8.021917808,381.05
+US-TEX-ERCO,2021,United States of America,"Electric Reliability Council Of Texas, Inc.",,6553,17.95342466,376.61
+US-TN,2018,United States of America,Tennessee,,4028,11.03561644,319.7480139
+US-TN,2019,United States of America,Tennessee,,8672,23.75890411,287.9437167
+US-TX,2018,United States of America,ERCOT,,4340,11.89041096,443.0423895
+US-TX,2019,United States of America,ERCOT,,8760,24,396.7852697

@@ -1,0 +1,329 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+@font-face {
+  font-family: 'Samarkan';
+  src: url('file:///C:/Users/D%20E%20L%20L/Downloads/samarkan/SAMARN__.TTF') format('truetype');
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(#2e4d30,#000000);
+  color: white;
+  background-attachment: fixed;
+  margin: 0;
+  position: relative; /* Position for logo */
+}
+
+.container {
+  text-align: center;
+  margin-top: 5px;
+  margin-bottom: 20px; /* Added margin-top */
+}
+
+
+
+.prajwalan {
+  font-family: 'Samarkan', sans-serif;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); 
+  font-size: 175px; /* Adjust font size */
+  margin-bottom: 10px; /* Adjust margin as needed */
+  line-height: 1.2; /* Adjust line height as needed */
+}
+/* Added text shadow */
+
+
+.timer-container {
+  text-align: center;
+}
+
+.timer {
+  font-size: 70px; /* Increased font size */
+  animation: timerAnimation 0.5s infinite alternate;
+}
+
+@keyframes timerAnimation {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+
+.button-container {
+  text-align: center;
+  margin-bottom: 40px; /* Increased margin-bottom */
+}
+
+.button {
+  background-color: transparent; /* Set background color to transparent */
+  border: 2px solid #035390; /* Add a black border */
+  color: white;
+  padding: 40px 80px; /* Adjust padding for larger size */
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 36px; /* Increase font size */
+  cursor: pointer;
+  border-radius: 8px;
+  margin: 0 10px;
+  transition: background-color 0.3s ease, color 0.3s ease; /* Smooth transition for background color and color */
+}
+
+.button:hover {
+  color: white; /* Change text color on hover */
+  box-shadow: 0px 0px 40px 20px #035390; /* Add stronger green bright backlight */
+}
+
+.round-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 40px; /* Add margin-top */
+}
+
+.round {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px solid #ccc;
+  margin: 0 5px; /* Decreased margin here */
+  font-size: 24px;
+  line-height: 150px;
+}
+
+.round1, .round2, .round3 {
+  border-color: #ccc;
+}
+
+.line {
+  flex: 1;
+  height: 5px;
+  background-color: #ccc;
+  margin: 0 5px; /* Decreased margin here */
+}
+
+.highlight {
+  border-color: yellow;
+}
+
+.popup {
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(0, 0, 0, 0.7);
+  padding: 80px;
+  border-radius: 40px;
+  z-index: 999;
+}
+
+.popup p {
+  font-size: 48px;
+  margin: 0;
+}
+
+.popup-animation {
+  animation: popupAnimation 1s ease forwards;
+}
+
+@keyframes popupAnimation {
+  0% {
+    transform: translate(-50%, -50%) scale(0.5);
+    opacity: 0;
+  }
+  100% {
+    transform: translate(-50%, -50%) scale(1);
+    opacity: 1;
+  }
+}
+
+.logo {
+ position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.logo1 {
+position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.logo img {
+  width: 100px;
+  height: auto;
+}
+
+.logo1 img {
+  width: 100px;
+  height: auto;
+}
+
+.heading {
+  font-size: 42px;
+}
+
+.sub-heading {
+  font-size: 30px;
+  margin-top: 5px;
+}
+
+@media only screen and (max-width: 400px) {
+  .timer {
+    font-size: 40px;
+  }
+  .popup {
+    padding: 40px;
+    border-radius: 30px;
+  }
+  .popup p {
+    font-size: 36px;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="logo">
+  <img src="srkr_logo.png" alt="Logo">
+</div>
+<div class="logo1">
+    <img src="ace sticker.png" alt="Logo">
+</div>
+<center><b>
+<div class="heading">SAGI RAMAKRISHNAM RAJU ENGINEERING COLLEGE (A)</div>
+<div class="sub-heading">DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING<br>ASSOCIATION OF COMPUTER ENGINEERS<br>PRESENTS</div>
+<div class="container">
+  <p><span class="prajwalan">PRAJWALAN 2k24</span></p>
+</div>
+</b></center>
+
+<div class="container" id="startContainer">
+  <button class="button large-button" onclick="startTimer()">Start</button>
+</div>
+
+<div class="container" id="timerContainer" style="display: none;">
+  <div class="timer-container">
+    <p class="timer" id="demo">24h 00m 00s</p>
+  </div>
+</div>
+
+<div class="container">
+  <div class="round-container">
+    <div class="round round1">PHASE-1</div>
+    <div class="line"></div>
+    <div class="round round2">PHASE-2</div>
+    <div class="line"></div>
+    <div class="round round3">PHASE-3</div>
+  </div>
+</div>
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+<div class="button-container">
+  <button class="button" onclick="resetTimer()">Reset</button>
+</div>
+
+<div class="popup" id="popup">
+  <p>CODING BEGINS!</p>
+</div>
+
+<div class="popup" id="countdownCompletedPopup">
+  <p>Countdown completed!</p>
+</div>
+
+<script>
+  var countDownDate;
+  var x;
+  
+  // Check if there is a stored countdown time
+  var storedCountdownTime = localStorage.getItem('countdownTime');
+  if (storedCountdownTime) {
+    countDownDate = new Date(storedCountdownTime).getTime();
+  } else {
+    // Set a default countdown time if none is stored
+    countDownDate = new Date().getTime() + (24 * 60 * 60 * 1000);
+  }
+  
+  function startTimer() {
+    document.getElementById("startContainer").style.display = "none";
+    document.getElementById("timerContainer").style.display = "block";
+    
+    // Store the countdown time in localStorage
+    localStorage.setItem('countdownTime', new Date(countDownDate).toISOString());
+  
+    var popup = document.getElementById("popup");
+    popup.style.display = "block";
+    popup.classList.add("popup-animation");
+    setTimeout(function(){
+      popup.style.display = "none";
+      popup.classList.remove("popup-animation");
+    }, 3000);
+  
+    x = setInterval(function() {
+      var now = new Date().getTime();
+      var distance = countDownDate - now;
+  
+      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+  
+      document.getElementById("demo").innerHTML = hours + "h "
+      + minutes + "m " + seconds + "s ";
+  
+      if (hours >= 16) {
+        document.getElementsByClassName("round1")[0].classList.add("highlight");
+      } else {
+        document.getElementsByClassName("round1")[0].classList.remove("highlight");
+      }
+  
+      if (hours >= 8 && hours < 16) {
+        document.getElementsByClassName("round2")[0].classList.add("highlight");
+      } else {
+        document.getElementsByClassName("round2")[0].classList.remove("highlight");
+      }
+  
+      if (hours < 8) {
+        document.getElementsByClassName("round3")[0].classList.add("highlight");
+      } else {
+        document.getElementsByClassName("round3")[0].classList.remove("highlight");
+      }
+  
+      if (distance < 0) {
+        clearInterval(x);
+        document.getElementById("demo").innerHTML = "THANK YOU";
+        var countdownCompletedPopup = document.getElementById("countdownCompletedPopup");
+        countdownCompletedPopup.style.display = "block";
+        countdownCompletedPopup.classList.add("popup-animation");
+        setTimeout(function(){
+          countdownCompletedPopup.style.display = "none";
+          countdownCompletedPopup.classList.remove("popup-animation");
+        }, 3000);
+      }
+    }, 1000);
+  }
+  
+  function resetTimer() {
+  clearInterval(x);
+  // Reset the countdown time to 24 hours from the current time
+  countDownDate = new Date().getTime() + (24 * 60 * 60 * 1000);
+  // Update the stored countdown time in localStorage
+  localStorage.setItem('countdownTime', new Date(countDownDate).toISOString());
+
+  document.getElementById("demo").innerHTML = "24h 00m 00s";
+  document.getElementById("startContainer").style.display = "block";
+  document.getElementById("timerContainer").style.display = "none";
+  document.getElementsByClassName("round1")[0].classList.remove("highlight");
+  document.getElementsByClassName("round2")[0].classList.remove("highlight");
+  document.getElementsByClassName("round3")[0].classList.remove("highlight");
+}
+
+  </script>
+  
+
+</body>
+</html>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Enter Text</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 100px;
+        }
+
+        input[type="text"] {
+            width: 300px;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Enter Some Text</h1>
+    <input type="text" id="textInput" placeholder="Enter text here...">
+    <button id="submitBtn">Submit</button>
+
+    <script>
+        document.getElementById("submitBtn").addEventListener("click", function() {
+            var userInput = document.getElementById("textInput").value;
+            // You can replace "nextPage.html" with the URL of the next page you want to redirect to
+            window.location.href = "nextPage.html?text=" + encodeURIComponent(userInput);
+        });
+    </script>
+</body>
+</html>
